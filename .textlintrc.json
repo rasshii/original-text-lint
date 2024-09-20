@@ -1,6 +1,9 @@
 {
     "rules": {
-        "textlint-rule-no-dropping-the-ra": true
+        "textlint-rule-no-dropping-the-ra": true,
+        "preset-jtf-style": true,
+        "ja-hiragana-fukushi": true,
+        "ja-hiragana-hojodoushi": true
     },
     "filters": {
         "comments": true
