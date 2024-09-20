@@ -1,6 +1,6 @@
 # original-text-lint
 
-```json
+```text
 {
     "rules": {
         // https://github.com/textlint-ja/textlint-rule-no-dropping-the-ra
