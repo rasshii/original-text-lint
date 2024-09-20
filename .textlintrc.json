@@ -1,0 +1,8 @@
+{
+    "rules": {
+        "textlint-rule-no-dropping-the-ra": true
+    },
+    "filters": {
+        "comments": true
+    }
+}
